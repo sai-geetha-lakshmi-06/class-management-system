@@ -85,3 +85,5 @@ gcc class_management.c -o cms
 3.![image alt](https://github.com/sai-geetha-lakshmi-06/class-management-system/blob/main/Screenshot%202025-11-23%20212811.png?raw=true)
 
 4.![image alt](https://github.com/sai-geetha-lakshmi-06/class-management-system/blob/main/Screenshot%202025-11-23%20213059.png?raw=true)
+
+5.![image alt](https://github.com/sai-geetha-lakshmi-06/class-management-system/blob/main/Screenshot%202025-11-23%20213126.png?raw=true)
