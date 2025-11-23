@@ -80,6 +80,6 @@ gcc class_management.c -o cms
    # screenshots
 1.![image alt](https://github.com/sai-geetha-lakshmi-06/class-management-system/blob/main/Screenshot%202025-11-23%20194629.png?raw=true)
    
-
+2.![image alt](https://github.com/sai-geetha-lakshmi-06/class-management-system/blob/main/Screenshot%202025-11-23%20212351.png?raw=true)
 
 
